@@ -1,0 +1,33 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+#navBar {
+  margin: 0 25%;
+  /* display: inline; */
+  /* border: solid red; */
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+tr {
+  border-bottom: 1px solid #ddd;
+}
+
+th {
+  text-align: left;
+}
+
+p {
+  display: inline;
+}
+
+
+
+/* div {
+  position: relative;
+} */
